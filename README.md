@@ -17,7 +17,7 @@ Python | Pandas | NumPy | Matplotlib | scikit-learn | SQL | Power BI | Excel | G
 
 ### Featured Projects
 
-[Real Estate Analysis]((https://github.com/joa-kl/real_estate_analysis))
+[Real Estate Analysis](https://github.com/joa-kl/real_estate_analysis)
 
 This project performs an **Exploratory Data Analysis (EDA)** on Polish residential property advertisements from **Otodom.pl** (July 2023 - July 2024).
 

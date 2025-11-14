@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi, I'm Joanna 
 
-<!--
-**joa-kl/joa-kl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Aspiring Data Scientist | Lifelong Learner | Biotech & Medicine Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about transforming raw data into meaningful insights using Python, SQL, and data visualization tools. My main interests lie at the intersection of biotechnology and medicine, thus I am currently learning data science and its impact on improvement of patients’ lives and advancing human health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### What I Do
+- 📊 Data Cleaning & Visualization
+- 🗃️ SQL Data Analysis
+- 📈 Dashboarding (Power BI, Tableau)
+
+
+### Tools & Languages
+Python | Pandas | NumPy | Matplotlib | scikit-learn | SQL | Power BI | Excel | Git
+
+
+### Featured Projects
+
+[Real Estate Analysis]((https://github.com/joa-kl/real_estate_analysis))
+
+This project performs an **Exploratory Data Analysis (EDA)** on Polish residential property advertisements from **Otodom.pl** (July 2023 - July 2024).
+
+The analysis demonstrates my ability to:
+- **Clean and preprocess** real-world real estate data
+- **Perform univariate and bivariate analysis** to understand feature distributions and relationships
+- **Create clear visualizations** for storytelling and insight discovery
+- **Handle data anomalies** (e.g., outliers)
+- **Engineer new features** (e.g., price per m²) for deeper analysis
+
+
+
+### Let’s Connect!
+[LinkedIn](https://www.linkedin.com/in/joaklein/) 

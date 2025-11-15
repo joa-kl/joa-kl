@@ -12,7 +12,7 @@ I’m passionate about transforming raw data into meaningful insights using Pyth
 
 
 ### Tools & Languages
-Python | Pandas | NumPy | Matplotlib | scikit-learn | SQL | Power BI | Excel | Git
+Python | Pandas | NumPy | Matplotlib | SQL | Power BI | Excel | Git
 
 
 ### Featured Projects
